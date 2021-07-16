@@ -29,5 +29,8 @@ phases:
 artifacts:
   files:
    - imagedefinitions.json
-   - target/My-cluster.jar
+   - target/order-service.jar
+
+
+
 
